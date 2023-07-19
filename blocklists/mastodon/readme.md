@@ -18,6 +18,7 @@ Some of the URLs were trivially easy to classify for reasons such as
 * The presence of the `crypto` word and related terms in URL
 * Political terms present in URL
 * Innuendo in URL
+  
 But, some of them were chosen because:
 * It's someone's private speech bubble only open to their relatives or it's a single-user instance.
 * It's a shitposting instance, and provides no real value to discussion.   
