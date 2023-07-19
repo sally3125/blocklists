@@ -1,0 +1,3 @@
+#domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
+threads.net,suspend,False,False,,False
+threads.instagram.com,suspend,False,False,,False
