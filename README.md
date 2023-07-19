@@ -12,4 +12,4 @@ You can select which one you'd prefer, by downloading the selected file.
 * https://seirdy.one/posts/2023/05/02/fediverse-blocklists/
 * https://codeberg.org/oliphant/blocklists/src/branch/main/blocklists
 * The #fediblock hashtag on Mastodon
-* Instance list for Mastodon, Pleroma, Misskey, Calckey
+* Instance list for Mastodon, Pleroma, Misskey, Firefish (formerly Calckey)
