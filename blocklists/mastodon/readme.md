@@ -5,7 +5,7 @@ The headers are `#domain,#severity,#reject_media,#reject_reports,#public_comment
 # Guide to the lists
 Each list blocks more unwanted domains, but ANY list will block Meta's Threads by default.
 * `blocked_domains_threadsonly.csv` - A domain blocking list only containing Meta's Threads. 
-* `blocked_domains_origmain_mastodon.csv` - The original "main" list that was compiled by looking up the list of instances for Mastodon, Misskey and Calckey. (73 entries)
+* `blocked_domains_origmain_mastodon.csv` - The original "main" list that was compiled by looking up the list of instances for Mastodon, Misskey and Firefish (formerly Calckey). (73 entries)
 * `fedinuke-mastodon.csv` - Seirdy's `FediNuke.txt` list in importable CSV format. Could be considered as a likely "default" blocklist. (174 entries)
 * `blocked_domains_mainandfedinuke-mastodon.csv` - The "main" list and the Fedinuke list merged into one list. (240 entries)
 * `blocked_domains_mainandfedinuke_100pct-mastodon.csv` - The "main" list, Fedinuke, and Oliphant's 100 percent list merged into one list. (258 entries)
