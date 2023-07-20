@@ -15,7 +15,7 @@ Each list blocks more unwanted domains, but ANY list will block Meta's Threads b
 * `fedinuke.csv` - Seirdy's `FediNuke.txt` list in importable CSV format. Could be considered as a likely "default" blocklist. (174 entries)
 * `gardenfence.csv` - Oliphant's Gardenfence CSV file. (176 entries)
 * `blocked_domains_mainandfedinuke.csv` - The "main" list and the Fedinuke list merged into one list. (240 entries)
-* `blocked_domains_mainandfedinuke_100pct.csv` - The "main" list, Fedinuke, and Oliphant's 100 percent list merged into one list. (258 entries)
+* `blocked_domains_mainv2andfedinuke_100pct.csv` - The "main" list, Fedinuke, and Oliphant's 100 percent list merged into one list. (258 entries)
 * `blocked_domains_main_fedinuke_100pct_gardenfence.csv` - The "main" list, Fedinuke, and Oliphant's 100 percent, and Gardenfence list merged into one list. (332 entries)
 * `blocked_domains_mainv2andfedinuke_100pct_gardenfence_pleromaenvs.csv` - The "main" list, Seirdy's Fedinuke, BirdsiteLive, a portion of the `pleroma.envs.net` list, and Oliphant's 100 percent, Gardenfence list merged into one list. (1333 entries)
 
