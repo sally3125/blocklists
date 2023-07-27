@@ -1,5 +1,5 @@
 # blocklists
-Blocklists for ActivityPub-based sites, but mostly for Mastodon.
+Blocklists for ActivityPub-based sites, but mostly for Mastodon and Misskey.
 
 These blocklists are based on
 * Seirdy's FediNuke.txt and pleroma.envs.net blocklists
