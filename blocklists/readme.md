@@ -9,6 +9,7 @@ If you're unsure whether to merge or overwrite, export your current blocking lis
 For a better, properly headered version of these lists, check out the `mastodon` folder.
 
 For Misskey, use the Settings -> Other Settings section -> Instance Mutes and copy the contents of `blocklist-merged.txt` into the textbox of the page, and click on "Save". The muting will be in effect, and if you need to fine-tune or change the settings, you can always add or remove URLs in the text box, just add new entries with a new line.
+`blocklist-merged.txt` is based on `blocked_domains_mainandfedinuke_100pct_gardenfence_pleromaenvs_new_upl.csv`, but for convenience, I simply named it in a light manner.
 
 # Guide to the lists
 Each list blocks more unwanted domains, but ANY list will block Meta's Threads by default.
