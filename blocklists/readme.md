@@ -2,11 +2,14 @@
 
 This folder contains the files that can be uploaded using the Import function of a Mastodon instance.
 
-To import, use Preferences -> Import and export -> Import, Select option "Domain Blocking list" and select the CSV file to be imported.
+To import on Mastodon, use Preferences -> Import and export -> Import, Select option "Domain Blocking list" and select the CSV file to be imported.
 
 If you're unsure whether to merge or overwrite, export your current blocking list (for backup) and proceed with merging.
 
 For a better, properly headered version of these lists, check out the `mastodon` folder.
+
+For Misskey, use the Settings -> Other Settings section -> Instance Mutes and copy the contents of `blocklist-merged.txt` into the textbox of the page, and click on "Save". The muting will be in effect, and if you need to fine-tune or change the settings, you can always add or remove URLs in the text box, just add new enries with a new line.
+
 # Guide to the lists
 Each list blocks more unwanted domains, but ANY list will block Meta's Threads by default.
 * `blocked_domains_threadsonly.csv` - A domain blocking list only containing Meta's Threads.
